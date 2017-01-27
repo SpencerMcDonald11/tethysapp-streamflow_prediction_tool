@@ -59,7 +59,3 @@ def get_waterml(request):
         except Exception as e:
             print str(e)
             raise Http404('An error occurred. Please verify parameters.')
-<<<<<<< HEAD
-
-=======
->>>>>>> dev
